@@ -1,0 +1,14 @@
+example/spring/mvccrud/config/Utils.class
+example/spring/mvccrud/persistence/dao/common/IOperations.class
+example/spring/mvccrud/controller/AppController.class
+example/spring/mvccrud/persistence/service/IApplicantService.class
+example/spring/mvccrud/config/AppValidator.class
+example/spring/mvccrud/persistence/dao/common/AbstractHibernateDao.class
+example/spring/mvccrud/persistence/dao/impl/ApplicantDao.class
+example/spring/mvccrud/config/AppConfig.class
+example/spring/mvccrud/persistence/dao/IApplicantDao.class
+example/spring/mvccrud/persistence/service/impl/ApplicantService.class
+example/spring/mvccrud/persistence/service/entity/ApplicantInfo.class
+example/spring/mvccrud/persistence/model/Applicant.class
+example/spring/mvccrud/persistence/service/common/AbstractService.class
+example/spring/mvccrud/config/AppInitializer.class
